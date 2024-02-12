@@ -33,3 +33,12 @@ class ok
         }
     }
 }
+output:
+Enter date :: 
+10
+Enter month :: 
+11
+Enter an Year :: 
+2004
+The entered date is:10/11/2004
+Specified year is a leap year
